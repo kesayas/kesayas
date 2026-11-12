@@ -1,6 +1,10 @@
 # Hi there, I'm Kirubel Esayas 👋
 
-Full-Stack Developer passionate about crafting modern web & mobile experiences.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kesayas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+Full-Stack Developer passionate about crafting modern, resilient web and mobile applications.
 
 ---
 
@@ -33,7 +37,7 @@ Full-Stack Developer passionate about crafting modern web & mobile experiences.
 ---
 
 ### 🏷️ Digital Sticker Collection
-<!-- To activate: register at holopin.io with your GitHub account -->
+<!-- Claim stickers on holopin.io with your GitHub account to see them pinned here -->
 [![@kesayas's Holopin board](https://holopin.me/kesayas)](https://holopin.io/@kesayas)
 
 ---
